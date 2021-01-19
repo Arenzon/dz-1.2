@@ -5,8 +5,10 @@
 На тестирование затрачено: 3 часа
 
  В результате тестирования выявлены следующие дефекты:
-* https://github.com/Arenzon/dz-1.2/issues/1
-* https://github.com/Arenzon/dz-1.2/issues/2
+* [Руководство по установке IntelliJ IDEA. Начальная картинка руководства не соответствует интерфейсу установки Toolbox App](#https://github.com/Arenzon/dz-1.2/issues/1) 
+* [Руководство по установке IntelliJ IDEA. Шаг 5 руководства не соответствует алгоритму установки](#https://github.com/Arenzon/dz-1.2/issues/2)
+* [Credit Card Number Validator. Для карты с валидным номером длинной 19 символов возвращается сообщение "FAIL"](#https://github.com/Arenzon/dz-1.2/issues/3)
+* [Credit Card Number Validator. Для карт "Diners Club - Carte Blanche" возвращается сообщение "FAIL"](#https://github.com/Arenzon/dz-1.2/issues/4)
 
 ## Описание процесса тестирования
 IntelliJ IDEA была успешно инсталлирована, запущена на платформе Windows 10 Home, х64 и совместима с Java 11.
